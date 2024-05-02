@@ -22,12 +22,12 @@
 🔅 Former Intern Customer Support Engineer at [**Texus Information Solutions (Pvt) Ltd**](https://texus.lk/)
 
 ## Programming language
- 👨‍💻 Java
- 👨‍💻 C
- 👨‍💻 Python
- 👨‍💻 Selenium
- 👨‍💻 HTML 
- 👨‍💻 CSS
+ 👨‍💻 Java <br>
+ 👨‍💻 C <br>
+ 👨‍💻 Python <br>
+ 👨‍💻 Selenium <br>
+ 👨‍💻 HTML  <br>
+ 👨‍💻 CSS <br>
  👨‍💻 JavaScrip
 
 
