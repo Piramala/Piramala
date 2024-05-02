@@ -3,7 +3,7 @@
 <p align="center"> Never let anyone tell you that <b>"You can't"</b> Because can't is a word I eliminate from my vocabulary and replace it with <b>Strength</b>..!</p>
 
 <p align="center">
-<a href="https://twitter.com/piramala" target="_blank"><img align="center" src="img/linkedin1.svg" alt="linkedin" height="40" width="40" /></a>
+<a href="https://linkedin.com/in/piramala" target="_blank"><img align="center" src="img/linkedin1.svg" alt="linkedin" height="40" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100012008382455" target="_blank"><img align="center" src="img/facebook1.svg" alt="facebook" height="40" width="40" /></a>
 </p>
 <hr/>
