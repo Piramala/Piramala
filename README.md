@@ -19,7 +19,7 @@
 
 👨‍💻 Software Quality Assurance Using Test Automation Frameworks  at [**University Of Colombo School Of Computing**](https://cmb.ac.lk/category/ucsc)
 
-🔅 Former Intern Customer Support Engineer at [**Texus Information Solutions (Pvt) Ltd**](https://texus.lk/)
+💼 Former Intern Customer Support Engineer at [**Texus Information Solutions (Pvt) Ltd**](https://texus.lk/)
 
 ## Programming language
  👨‍💻 Java <br>
