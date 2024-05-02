@@ -21,9 +21,14 @@
 
 🔅 Former Intern Customer Support Engineer at [**Texus Information Solutions (Pvt) Ltd**](https://texus.lk/)
 
-## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iPiramala&hide_progress=true&langs_count=20&theme=merko)
-
+## Programming language
+ 👨‍💻 Java
+ 👨‍💻 C
+ 👨‍💻 Python
+ 👨‍💻 Selenium
+ 👨‍💻 HTML 
+ 👨‍💻 CSS
+ 👨‍💻 JavaScrip
 
 
 
